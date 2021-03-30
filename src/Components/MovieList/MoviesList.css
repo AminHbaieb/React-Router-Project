@@ -1,0 +1,9 @@
+.movieslist {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    height: 100px;
+}
+.movieslist > * {
+    margin: 50px;
+}
